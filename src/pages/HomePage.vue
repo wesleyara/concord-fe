@@ -18,7 +18,7 @@ const count = ref(0);
     <span>
       <p>
         Edit
-        <code class="rounded-md bg-[#ebebeb] p-1 font-barlow">views/HomeView.vue</code>
+        <code class="rounded-md bg-[#ebebeb] p-1 font-barlow">oages/HomePage.vue</code>
         to test HMR
       </p>
 
